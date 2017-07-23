@@ -1,0 +1,42 @@
+#twitter {
+  text-align: center;
+}
+
+#profile {
+  text-align: center;
+  font-weight:bold;
+}
+#profile:hover {
+  filter: drop-shadow(0 0 10px white);
+}
+#bio {
+  text-align: center;
+}
+
+#img-circle {
+  border-radius: 50%;
+  height: 180px;
+  width: 180px;
+}
+
+#social {
+  position: relative;
+  bottom: 2rem;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+#social a {
+  transition: all 0.25s;
+  margin: 0 1rem;
+}
+
+#social i:before {
+  color: black;
+  font-size: 4rem;
+}
+
+#social a:hover {
+  filter: drop-shadow(0 0 5px #AAAAAA);
+}
