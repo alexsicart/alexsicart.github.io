@@ -1,5 +1,21 @@
+
+html {
+  box-sizing: border-box;
+  background-image: linear-gradient(to bottom left, #8658c9, #0365C0);
+  background-repeat: no-repeat;
+  background-color: #0365C0;
+  color: white;
+}
+
 #twitter {
   text-align: center;
+}
+
+a {
+  color:white;
+}
+* {
+  font-family: 'Source Code Pro';
 }
 
 #profile {
@@ -15,8 +31,8 @@
 
 #img-circle {
   border-radius: 50%;
-  height: 180px;
-  width: 180px;
+  height: 200px;
+  width: 200px;
 }
 
 #social {
