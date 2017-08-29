@@ -2,7 +2,8 @@
 html {
   height: 100vh;
   box-sizing: border-box;
-  background-image: linear-gradient(to bottom left, #D664BE, #B191FF);
+  background-image: url(../images/background_image.png);
+  background-size: cover;
   background-repeat: no-repeat;
   background-color: #B191FF;
   color: white;
