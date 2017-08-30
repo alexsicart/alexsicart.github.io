@@ -85,6 +85,11 @@ a {
   filter: drop-shadow(0 0 5px #AAAAAA);
 }
 
+@media screen and (max-width: 767px) {
+  html, body {
+    height: auto;
+    min-height: 100%;
+  }
 
 .container {
   font-size: 25px;
