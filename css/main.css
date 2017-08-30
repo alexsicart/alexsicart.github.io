@@ -5,7 +5,7 @@ html {
   background-image: url(../images/background_image.png);
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #8493FF;
+  background-color: rgb(66, 41, 249);
   color: white;
 }
 
