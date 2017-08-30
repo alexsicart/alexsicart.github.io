@@ -6,6 +6,9 @@ html {
   background-size: cover;
   background-color: rgb(71, 39, 224);
   filter: drop-shadow(0 0 1px #AAAAAA);
+  background-position: 100% top;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 
