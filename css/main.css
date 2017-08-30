@@ -7,7 +7,7 @@ html {
   background-image: url(../images/background_image.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  filter: drop-shadow(0 0 4px #AAAAAA);
+  filter: drop-shadow(0 0 3px #AAAAAA);
 }
 
 body {
