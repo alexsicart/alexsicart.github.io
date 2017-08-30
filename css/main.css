@@ -19,7 +19,7 @@ html, body {
 }
 
 * {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro';
 }
 
 
@@ -90,11 +90,12 @@ a {
     height: auto;
     min-height: 100%;
   }
-
-.container {
-  font-size: 25px;
-  margin-left: 10px;
-  margin-right: 15%;
-  font-family: 'Source Sans Pro';
-  overflow: scroll;
 }
+
+  .container {
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 15%;
+    font-family: 'Source Sans Pro';
+    overflow: scroll;
+  }
