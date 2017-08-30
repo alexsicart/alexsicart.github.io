@@ -4,6 +4,8 @@ html {
   box-sizing: border-box;
   background-color: rgb(66, 41, 249);
   color: white;
+  filter: drop-shadow(0 0 7px #AAAAAA);
+
 }
 
 body {
@@ -11,7 +13,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
-  filter: drop-shadow(0 0 10px #AAAAAA);
+  width: 100%;
 }
 
 
