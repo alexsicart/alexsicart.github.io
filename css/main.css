@@ -1,12 +1,35 @@
 
 html {
-  height: 100vh;
   box-sizing: border-box;
-  background-image: linear-gradient(to bottom left, #D664BE, #B191FF);
+  background-image: url(../images/background_image.png);
   background-repeat: no-repeat;
-  background-color: #B191FF;
+  background-size: cover;
+  background-color: rgb(71, 39, 224);
+  filter: drop-shadow(0 0 1px #AAAAAA);
+  background-position: 100% top;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html, body {
+  height: 100%;
   color: white;
 }
+
+* {
+  font-family: 'Source Sans Pro';
+}
+
+
+body > .pure-g {
+  height: 100%;
+}
+
 
 #twitter {
   text-align: center;
@@ -64,3 +87,22 @@ a {
 #social a:hover {
   filter: drop-shadow(0 0 5px #AAAAAA);
 }
+<<<<<<< HEAD
+=======
+
+@media screen and (max-width: 767px) {
+  html, body {
+    height: auto;
+    min-height: 100%;
+  }
+}
+
+
+.container {
+  font-size: 16px;
+  font-weight: 300 ;
+  margin-left: 10px;
+  margin-right: 15%;
+  font-family: 'Source Sans Pro';
+}
+>>>>>>> 678f2d2beb6811541deab5a1307d7351cd6aebe7
