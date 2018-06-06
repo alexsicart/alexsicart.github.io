@@ -1,4 +1,4 @@
 This is a Brave Payments publisher verification file.
 
-Domain: alexsicart.com 
-Token: fbe91de6e456d54e99e23a90a3c6aa58fbeb32b69e4ca019bbd2d1daf82b48a7
+Domain: alexsicart.com
+Token: b8ff36e3e53e483cf566ed02ee8f8d8441ed274e3170aba0bc05b17d80589388
