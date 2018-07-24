@@ -1,11 +1,9 @@
 
 html {
   box-sizing: border-box;
-  background-image: url("background.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: rgb(71, 39, 224);
-  filter: drop-shadow(0 0 1px #AAAAAA);
+  background-color: white;
   background-position: 100% top;
   background-position: center;
   background-attachment: fixed;
@@ -17,7 +15,7 @@ html {
 }
 
 html, body {
-  color: white;
+  color: black;
 }
 
 * {
@@ -35,7 +33,7 @@ body > .pure-g {
 }
 
 a {
-  color:white;
+  color:black;
 }
 * {
   font-family: 'Source Code Pro';
@@ -56,9 +54,6 @@ a {
   border-radius: 50%;
   height: 200px;
   width: 200px;
-  border-style: solid;
-  border-width: 3px;
-  border-color: #8658c9;
 }
 
 #img-circle:hover {
@@ -79,7 +74,7 @@ a {
 }
 
 #social i:before {
-  color: white;
+  color: black;
   font-size: 2rem;
 }
 
