@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8" />
-        <script src="https://instant.0xproject.com/instant.js" /></script>
-    </head>
-    <body>
-        <script type='text/javascript'>
-            function renderZeroExInstant() {
-                zeroExInstant.render(
-                    {
-                        orderSource: 'https://api.relayer.com/sra/v2/',
-                    },
-                    'body',
-                );
-            }
-        </script>
-        <button onClick="renderZeroExInstant()">Hello World</button>
-    </body>
+<head>
+    <meta charset="utf-8" />
+    <script src="https://instant.0xproject.com/instant.js" /></script>
+</head>
+<body>
+    <script type='text/javascript'>
+    function renderZeroExInstant() {
+        zeroExInstant.render(
+            {
+                orderSource: 'https://api.relayer.com/sra/v2/',
+                affiliateInfo: {
+                    feeRecipient: '0x0d8AeeE54d0e7B4e2BFD59533f54171Fd594505b',
+                    feePercentage: 0.03,
+                },
+            },
+            'body',
+        );
+    }
+    </script>
+    <button onClick="renderZeroExInstant()">Hello World</button>
+</body>
 </html>
