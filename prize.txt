@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Bio</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <link rel="stylesheet" href="https://cdn.materialdesignicons.com/1.9.32/css/materialdesignicons.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,200,600' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro:400,300,600' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+  <div class="container">
+    <h1>Copy-paste bio</h1>
+    <h5>At age 13 he built a digital platform for students. At 17 the Spaniard is the co-founder of Sharge, a sharing-economy platform of charging-stations for electric car users that's partnered with Audi. The startup's peer-to-peer network allows people to rent out charging stations in their own homes. </h5>
+    <h1>Recognitions</h1>
+    <h6>
+      <ul>
+        <li>Forbes 30 under 30 Europe (Technology & Youngest)</li>
+        <li>Forbes 30 under 30 Spain</li>
+        <li>2018’s Revelation Award by Catalonia Radio</li>
+        <li>Winner of Start-up School</li>
+        <li>Winner Audi Creativity Challenge</li>
+        <li>Dreamer at Imagine Silicon Valley 2016</li>
+        <li>EADA Schoolarship Winner</li>
+        <li>The best business SMARTContracted by Banco Sabadell. BS Ethereum Hackathon</li>
+        <li>200 #KEYxPEOPLE in the Catalan startup ecosystem</li>
+      </ul>
+    </h6>
+    <h1>key-info</h1>
+    <h6>
+      <ul>
+        <li>Work: Co-founder FileNation.</li>
+        <li>Advisor: Internxt, CryptoSolarTech.</li>
+        <li>Age: 18.</li>
+        <li>Education: High School, Eada Business School, Codeworks & Life.</li>
+        <li>Residence: Decentralized.</li>
+      </ul>
+    </h6>
+  </div>
+</body>
+</html>
+s
