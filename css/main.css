@@ -19,7 +19,7 @@ html, body {
 }
 
 * {
-  font-family: 'Source Sans Pro';
+  font-family: 'Montserrat';
 }
 
 
@@ -36,7 +36,7 @@ a {
   color:black;
 }
 * {
-  font-family: 'Source Code Pro';
+  font-family: 'Montserrat';
 }
 
 #profile {
@@ -95,5 +95,5 @@ a {
   font-weight: 320px;
   margin-left: 6px;
   margin-right: 10%;
-  font-family: 'Source Sans Pro';
+  font-family: 'Montserrat';
 }
